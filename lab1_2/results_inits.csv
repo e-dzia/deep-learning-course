@@ -1,0 +1,5 @@
+,init_w,init_b,acc,f1,loss
+0,GlorotUniform,GlorotNormal,0.4437,0.4437,1.471543550491333
+1,GlorotUniform,RandomUniform,0.4506,0.4506,1.4969902038574219
+2,RandomNormal,GlorotNormal,0.4341,0.4341,1.634413719177246
+3,RandomNormal,RandomUniform,0.4403,0.4403,1.6264402866363525
